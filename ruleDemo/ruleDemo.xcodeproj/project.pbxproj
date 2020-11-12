@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C817C2AB255D516A0013B0DF /* QQCollectionReusableView.m in Sources */ = {isa = PBXBuildFile; fileRef = C817C2AA255D516A0013B0DF /* QQCollectionReusableView.m */; };
 		C8205665252EE22D00C4404D /* AJCameraZoomSlider.m in Sources */ = {isa = PBXBuildFile; fileRef = C8205664252EE22D00C4404D /* AJCameraZoomSlider.m */; };
 		C87D24BE25188708006CA584 /* AJ_ScrollMode.m in Sources */ = {isa = PBXBuildFile; fileRef = C87D24BC25188708006CA584 /* AJ_ScrollMode.m */; };
 		C87D24CA251899C9006CA584 /* UIView+Layout.m in Sources */ = {isa = PBXBuildFile; fileRef = C87D24C2251899C9006CA584 /* UIView+Layout.m */; };
@@ -32,6 +33,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C817C2A9255D516A0013B0DF /* QQCollectionReusableView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = QQCollectionReusableView.h; sourceTree = "<group>"; };
+		C817C2AA255D516A0013B0DF /* QQCollectionReusableView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = QQCollectionReusableView.m; sourceTree = "<group>"; };
 		C8205663252EE22D00C4404D /* AJCameraZoomSlider.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AJCameraZoomSlider.h; sourceTree = "<group>"; };
 		C8205664252EE22D00C4404D /* AJCameraZoomSlider.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AJCameraZoomSlider.m; sourceTree = "<group>"; };
 		C87D24BC25188708006CA584 /* AJ_ScrollMode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AJ_ScrollMode.m; sourceTree = "<group>"; };
@@ -119,6 +122,8 @@
 				C87D24C8251899C9006CA584 /* NSString+string.m */,
 				C87D24C7251899C9006CA584 /* UIView+Layout.h */,
 				C87D24C2251899C9006CA584 /* UIView+Layout.m */,
+				C817C2A9255D516A0013B0DF /* QQCollectionReusableView.h */,
+				C817C2AA255D516A0013B0DF /* QQCollectionReusableView.m */,
 			);
 			path = Helper;
 			sourceTree = "<group>";
@@ -263,6 +268,7 @@
 				C8205665252EE22D00C4404D /* AJCameraZoomSlider.m in Sources */,
 				C87D24CA251899C9006CA584 /* UIView+Layout.m in Sources */,
 				C87D24CD251899C9006CA584 /* NSString+string.m in Sources */,
+				C817C2AB255D516A0013B0DF /* QQCollectionReusableView.m in Sources */,
 				C87D24CE251899C9006CA584 /* AJTimer.m in Sources */,
 				FF2F9BC91EFCFBE500AD7564 /* main.m in Sources */,
 			);
